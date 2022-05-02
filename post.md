@@ -20,8 +20,8 @@ last_modified_at: 2022-05-02 23:19:00 -0500
 # 입니다.
 
 > This is a first blockqute.
->	      > This is a second blockqute.
->	      >	      > This is a third blockqute.
+>       > This is a second blockqute.
+>       >       > This is a third blockqute.
 
 * 한동대
  * 벧엘관
